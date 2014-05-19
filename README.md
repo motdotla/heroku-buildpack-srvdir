@@ -2,6 +2,8 @@
 
 This is a [heroku buildpack](https://devcenter.heroku.com/articles/buildpacks) for [srvdir](http://srvdir.net).
 
+![](https://raw.githubusercontent.com/scottmotte/heroku-buildpack-srvdir/master/heroku-buildpack-srvdir.jpg)
+
 ## Usage
 
 ```
